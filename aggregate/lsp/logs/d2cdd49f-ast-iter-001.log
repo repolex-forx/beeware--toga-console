@@ -1,0 +1,7 @@
+[2026-11-07T12:31:16Z] === AST ITERATION 1 START | repo=beeware/toga-console sha=d2cdd49f ===
+[2026-11-07T12:31:16Z] [iter=1] PHASE START: ast repo=beeware/toga-console sha=d2cdd49f
+[2026-11-07T12:31:16Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T12:31:27Z] [iter=1] AST chunks built count=1 triples=102092
+[2026-11-07T12:31:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d2cdd49ff8a7f49738c7f3d749c53ca2a8df46a8/.complete
+[2026-11-07T12:31:27Z] [iter=1] PHASE END: ast elapsed_s=11 elapsed_min=0.2
+[2026-11-07T12:31:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
