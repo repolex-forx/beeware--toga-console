@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "toga-console",
+  "versions": [
+    {
+      "commit": "d2cdd49ff8a7f49738c7f3d749c53ca2a8df46a8",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:32:34.601608+00:00"
+    }
+  ]
+}
